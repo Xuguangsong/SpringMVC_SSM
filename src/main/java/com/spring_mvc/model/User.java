@@ -1,4 +1,4 @@
-package com.spring_mvc.pojo;
+package com.spring_mvc.model;
 
 public class User {
     private Integer id;
